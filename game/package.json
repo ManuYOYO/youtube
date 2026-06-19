@@ -1,0 +1,12 @@
+{
+  "name": "le-parcours-de-swann",
+  "version": "1.0.0",
+  "description": "Le Parcours de Swann - Jeu de plateforme 2D pixel art",
+  "scripts": {
+    "start": "npx serve . -p 8080",
+    "dev": "npx live-server --port=8080 --open=index.html"
+  },
+  "keywords": ["phaser3", "platformer", "pixel-art", "game"],
+  "author": "Studio Swann",
+  "license": "MIT"
+}
